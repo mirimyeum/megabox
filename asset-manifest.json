@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/megabox/static/css/main.dab9c3e6.css",
+    "main.js": "/megabox/static/js/main.84f7dd4d.js",
+    "index.html": "/megabox/index.html",
+    "main.dab9c3e6.css.map": "/megabox/static/css/main.dab9c3e6.css.map",
+    "main.84f7dd4d.js.map": "/megabox/static/js/main.84f7dd4d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dab9c3e6.css",
+    "static/js/main.84f7dd4d.js"
+  ]
+}
